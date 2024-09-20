@@ -1,0 +1,7 @@
+{
+    "appService.preDeployTask": "package:dimdim",
+    "appService.deploySubpath": "target\\dimdim-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8a1d02ec-4fcd-4c36-8cd0-3b170083334f/resourceGroups/rg-devops-checkpoint/providers/Microsoft.Web/sites/app-movtodimdim",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
